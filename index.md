@@ -129,7 +129,7 @@ div{
 <html>
 	<head>
 		<title>CSS Responsive</title>
-		<link rel="stylesheet" href="views/style.css">
+		
 	</head>
 
 	<body>
