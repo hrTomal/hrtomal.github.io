@@ -1,1 +1,0 @@
-# hrtomal.github.io
